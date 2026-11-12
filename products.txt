@@ -1,0 +1,25 @@
+Milk,250,10
+Bread,150,20
+Eggs,300,15
+Rice,400,25
+Sugar,180,30
+Salt,80,40
+Flour,160,35
+Cooking Oil,550,20
+Tea,450,18
+Coffee,700,12
+Butter,320,15
+Cheese,480,14
+Yogurt,180,22
+Biscuits,100,45
+Juice,220,25
+Pasta,200,30
+Noodles,120,40
+Lentils,280,25
+Potatoes,120,50
+Onions,140,45
+Tomatoes,160,35
+Apples,350,20
+Bananas,180,30
+Soap,130,35
+Shampoo,450,18
